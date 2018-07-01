@@ -16,8 +16,11 @@
 	<h1 align="center" style="color:White;"> Learn More About What Makes Brad Rad. </h1>
 	  <p align="center" style="color:White;"> This is a work in progress. Below is a link to my current website. I am working to create a new website 
 		utilizing html, css and javascript.</p>
-		<a style="color:White;" href="http://www.radBradDavis.com">Click here for current web page.</a>  <!--This adds a link to the website-->
-		
+	<div style="text-align:center">		
+		<a href="http://www.radBradDavis.com"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIlyiCDSDUlYzL0IjuRc2aUM9vIoo4ZwVCz8lHiuPA
+			EnXMODbK" alt="Click here for current web page." width="42" height="42" border="0"> </a>  <!--This adds a link to the website-->
+	</div>		
+
 	<p style="color:White;"> I recently had the privilege of taking a trip to Tegucigalpa, Honduras for a Mission Trip. 
 		I went with the expectation of seeing poverty and a society full of people who feel they got the short end of the straw in life. 
 		While I did see the rampant poverty, the people that I interacted with were anything but sour about their current station in life. </p>
