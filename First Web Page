@@ -2,14 +2,16 @@
 
 <!DOCTYPE html>
 <html>
-	<!-- This creates the title that will be shown on the window tab.-->
 	<head>
-	<title>Brad Davis Custom Page</title>
+	<style>
+	body {background-size: cover;} <!-- This makes the image used as the background a single pic that covers screen.-->
+	</style>
+	<title>Brad Davis Custom Page</title> <!-- This creates the title that will be shown on the window tab.-->
 	</head>
   
 	<!-- This creates a background for the entire website with an image url-->
-  	<body background="https://scontent-atl3-1.xx.fbcdn.net/v/t1.0-9/35941792_10211693140699313_3229268756039467008_n.jpg?_nc_cat=0&oh=44881db8c90058ca0df32277
-		d2f3cdfa&oe=5BB21188" alt="City of Tegucigalpa, Honduras">
+  	<body background="https://scontent-atl3-1.xx.fbcdn.net/v/t1.0-9/35789909_10211693150179550_8486775460439523328_n.jpg?_nc_cat=0&oh=dcb88d4349a71d0
+		964c6f6dde6bdef65&oe=5BDE9DD6" alt="City of Tegucigalpa, Honduras">
 
 	<h1 align="center" style="color:White;"> Learn More About What Makes Brad Rad. </h1>
 	  <p align="center" style="color:White;"> This is a work in progress. Below is a link to my current website. I am working to create a new website 
